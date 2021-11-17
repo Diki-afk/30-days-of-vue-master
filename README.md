@@ -35,22 +35,3 @@ yarn install
 # serve the project
 yarn serve
 ```
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-| <a href='https://twitter.com/djirdehh'><img src='https://pbs.twimg.com/profile_images/973750616487993344/fqDSTrb__400x400.jpg' width='140px;'/><h4 align='center'><a href='https://twitter.com/djirdehh'>Hassan Djirdeh</a></h4> | <a href='https://newline.co'><img src='https://avatars2.githubusercontent.com/u/4318?v=4' width='140px;'/><h4 align='center'><a href='https://newline.co'>Nate Murray</a></h4> |
-| :---: | :---: |
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-# Fullstack Vue Book
-
-<a href="https://fullstack.io/vue">
-  <img align="right" src="images/fullstack-vue-book-cover.png" alt="Fullstack Vue Book" width="155" height="250" />
-</a>
-
-This repo was written and is maintained by the [Fullstack Vue](https://fullstack.io/vue) team. In the book we cover many more projects like this. We walk through each line of code, explain why it's there and how it works.
-
-_30 Days of Vue_ covers only the early basics of Vue. If you're looking to learn how to build real-world Vue apps, including libraries from the Vue ecosystem, there's no faster way than by spending a few hours with the Fullstack Vue book.
